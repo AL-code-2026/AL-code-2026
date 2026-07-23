@@ -2,7 +2,7 @@
 
 I am currently an 11th grader taking advanced, college-level technology courses after school through the **Community College of Allegheny County (CCAC)**. I am passionate about software engineering, networking infrastructure, and frontend web development.
 
-### 🎓 College Coursework Completed (CCAC)
+### 🎓 College Coursework Completed (CCAC) — GPA: 4.0 / 4.0
 *   **CIT-111 (Intro to Programming: Java):** Object-oriented programming, logic, and GUI software troubleshooting.
 *   **CIT-115 (Information Technology Fundamentals):** Workstation setup, data security risks, and hardware compatibility.
 *   **CIT-120 (Networking Concepts):** Network device configuration, mobile infrastructure, and cloud virtualization.
